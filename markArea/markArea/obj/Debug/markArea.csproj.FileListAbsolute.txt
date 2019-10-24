@@ -1,0 +1,8 @@
+E:\Workspace2015\markArea\markArea\bin\Debug\markArea.exe
+E:\Workspace2015\markArea\markArea\bin\Debug\markArea.pdb
+E:\Workspace2015\markArea\markArea\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace2015\markArea\markArea\obj\Debug\markArea.Form1.resources
+E:\Workspace2015\markArea\markArea\obj\Debug\markArea.Properties.Resources.resources
+E:\Workspace2015\markArea\markArea\obj\Debug\markArea.csproj.GenerateResource.Cache
+E:\Workspace2015\markArea\markArea\obj\Debug\markArea.exe
+E:\Workspace2015\markArea\markArea\obj\Debug\markArea.pdb
